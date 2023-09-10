@@ -1,0 +1,172 @@
+.container {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    width: fit-content;
+}
+
+.box {
+    background-image: url(https://images.pexels.com/photos/2576111/pexels-photo-2576111.jpeg?auto=compress&cs=tinysrgb&w=1600);
+    background-size: cover;
+    background-position: center;
+    padding: 40px 50px 50px 30px;
+    margin: 30px;
+    width: 400px;
+    box-sizing: border-box;
+    display: inline-block;
+    border-radius: 12px;
+}
+
+.box p {
+    font-size: 15px;
+    line-height: 22.5px;
+    text-align: justify;
+}
+
+.box a {
+    text-decoration: none;
+    background-color: black;
+    color: whitesmoke;
+    padding: 15px 25px;
+    display: inline-block;
+    border-radius: 30px;
+}
+
+.boxid {
+    background-image: url(https://assets-global.website-files.com/606a802fcaa89bc357508cad/6423791a8a240bc5a5e79eeb_4_Ways%20to%20Enhance%20Your%20Business%20Website%20in%202023-p-800.png);
+    background-size: cover;
+    background-position: right;
+}
+
+.ui {
+    background-image: url(https://assets-global.website-files.com/606a802fcaa89bc357508cad/60e8546315ee582132dbbb10_case-study-full-width1-p-800.jpeg);
+    background-size: cover;
+}
+
+.ui p {
+    color: yellow;
+}
+
+.ui h1 {
+    color: yellow;
+}
+
+/* 2nd body */
+
+.wrapper {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    width: fit-content;
+}
+
+.ef {
+    background: linear-gradient(to left, #020024, #54a27a, #0d624c);
+}
+
+.ed {
+    background: linear-gradient(to right, #2c5779, #549fa2, #620d3c);
+}
+
+
+
+/* 3rd Body */
+
+.center-container {
+    margin: auto;
+    width: fit-content;
+}
+
+.center-container a {
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.center-box {
+    background-color: white;
+    width: 400px;
+    padding-bottom: 10px;
+    margin: 30px;
+    border-radius: 20px;
+    box-sizing: border-box;
+    display: inline-block;
+    border: 1px solid black;
+    overflow: hidden;
+}
+
+.txt-details {
+    padding: 10px 10px 20px 15px;
+
+}
+
+.txt-details .btn_discount_course-active {
+    padding: 7px 0;
+    color: #434242;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: left;
+}
+
+.fee-txts {
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn_discount_course {
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 22px;
+    text-decoration: none;
+    color: black;
+    padding: 7px 7px;
+    border: 1px solid red;
+    border-radius: 8px;
+    position: relative;
+    display: inline-block;
+    background-color: transparent;
+    transition: all linear .4s;
+}
+
+
+.btn_discount_course:hover {
+    background-color: black;
+    color: white;
+}
+
+
+/* Last Body */
+
+
+.end-container {
+    margin: auto;
+    width: fit-content;
+    justify-content: space-between display: flex;
+}
+
+.end-container a {
+    text-decoration: none;
+    color: #020024;
+}
+
+.end-box {
+    background-color: #fff;
+    width: 250px;
+    box-sizing: border-box;
+    display: inline-block;
+    border-bottom: 3px solid rgba(55, 73, 187, .03);
+}
+
+.p-item-details {
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.p-item-price {
+    color: rgb(205, 94, 54);
+    font-weight: 600;
+}
+
+.active-box {
+    margin: 20px;
+}
